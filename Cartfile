@@ -1,0 +1,4 @@
+github "ReactiveX/RxSwift" ~> 3.0
+github "matthewcheok/JSONCodable" ~> 3.0.1
+github "Moya/Moya"
+github "dzenbot/DZNEmptyDataSet"

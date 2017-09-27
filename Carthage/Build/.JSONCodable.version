@@ -1,0 +1,9 @@
+{
+  "commitish" : "3.0.1",
+  "iOS" : [
+    {
+      "hash" : "a144dcd3afcc154900353e908838f7bd5d0049345611e9cbb554a2fa8d04bf07",
+      "name" : "JSONCodable"
+    }
+  ]
+}
